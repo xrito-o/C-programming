@@ -1,5 +1,5 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: C Programming
+description: A C Programming Documentation.
 remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
@@ -7,6 +7,11 @@ plugins:
 url: "https://xrito-o.github.io"  # No trailing slash
 baseurl: "/C-programming"                   # The subfolder name, starts with /
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
+
+aux_links:
+  Github Repository: https://github.com/xrito-o/C-programming/
+
+color_scheme: dark
+
+includes_dir: _includes
