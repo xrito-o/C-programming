@@ -1,0 +1,16 @@
+---
+title: Variable Scope
+parent: variables
+nav_order: 6
+---
+
+### **Variable Scope**
+
+The **scope** of a variable is where in the program it can be accessed:
+
+* **Block scope:** Inside `{ }` only.
+* **Function scope:** Inside a specific function.
+* **File scope:** Visible to the whole file.
+* **Program scope:** Accessible by all files in a project (with `extern`).
+
+---
